@@ -6,6 +6,7 @@ jar文件夹下面是我打好的jar包，可以直接引入项目中使用。
 或者下载源码通过Maven install安装到本地Maven仓库,然后再pom文件中配置
 ）
 
+
 <dependency>
      
      <groupId>com.biubiu.boss</groupId>
@@ -15,6 +16,7 @@ jar文件夹下面是我打好的jar包，可以直接引入项目中使用。
      <version>1.0.0.beta</version>
      
 </dependency>
+
 
 
 在方法中使用的方法为：
