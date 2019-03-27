@@ -7,16 +7,15 @@ jar文件夹下面是我打好的jar包，可以直接引入项目中使用。
 ）
 
 
-<dependency>
-     
-     <groupId>com.biubiu.boss</groupId>
-     
-     <artifactId>rpc-sdk</artifactId>
-     
-     <version>1.0.0.beta</version>
-     
-</dependency>
 
+    <dependency>
+      <groupId>com.biubiu.boss</groupId>
+      <artifactId>rpc-sdk</artifactId>
+      <version>1.0.0.beta</version>
+    </dependency>
+
+
+需要服务部署在同一个网关内
 
 
 在方法中使用的方法为：
